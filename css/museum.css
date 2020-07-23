@@ -1,0 +1,51 @@
+body{
+	background-color: #e1e1e1;
+    
+}
+.bg-yal{
+	
+	background-color: rgba(0,0,245, 1);
+}
+.roimg{
+	transform: rotate(10deg);
+
+}
+.mean1{
+	background-image:linear-gradient(to bottom, rgba(0,0, 0,0.0),rgba(18,18 ,17, 0.80)), url('../mus-img/firstback-div1.png'); 
+	background-size: cover; 
+	height: 600px;
+	width: 100%;
+}
+.logo-text{
+	font-size: 20px;
+ 	animation: view-big 5s infinite ;
+ 	animation-delay: 2s;
+ 
+}
+@keyframes view-big{
+     0%{ 
+      transform: scale(0);
+
+      opacity: 0;
+     }
+     50%{
+     transform: scale(0.8);
+      opacity: 1;
+      font-weight: 20px;	
+     }
+     75%{
+     transform: scale(1);
+      opacity: 1;
+      font-weight: 20px;	
+     }
+     100%{
+     transform: scale(1);
+     font-weight: 20px;
+     }
+     }
+.text-yellow{
+	color:#ff9900;
+}
+.card1{
+
+}

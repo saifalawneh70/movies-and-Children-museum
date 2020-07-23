@@ -1,0 +1,119 @@
+body{
+margin: 0px;
+}
+footer{
+	background-color: black;
+	color: white;
+}
+.bg-f_h_div{
+	
+	height: 50px;
+	background-color: rgba(76,139,161, 0.9);
+}
+.Visit-background{
+background-image: url('../mus-img/locatin1.png');
+ 	background-repeat: no-repeat;
+ 	height: 500px;
+	width: 100%;
+
+}
+.background-image{
+	background-image: url('../mus-img/last v background.png'); 
+	background-size: cover; 
+	background-position: 50%;
+	height: 550px;
+	width: 100%;
+}
+.back-first-div{
+	margin-top: 160px;
+	margin-left: 250px;
+	width: 700px;
+}
+.card1{
+	
+	background-color: rgba(243,243,243, 0.8); 
+	height: 250px;
+}
+.butt-m{
+	margin-left: 70px;
+}
+.butt-m1{
+	margin-top: 40px;
+margin-left: 85px;	
+}
+.butt-m2{
+	margin-top: 125px;
+margin-left: 110px;	
+}
+.ex1{
+	background-image: url('../mus-img/exi1.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex2{
+	background-image: url('../mus-img/exi2.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex3{
+	background-image: url('../mus-img/exi3.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex4{
+	background-image: url('../mus-img/exi4.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex5{
+	background-image: url('../mus-img/exi5.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex6{
+	background-image: url('../mus-img/exi6.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex7{
+	background-image: url('../mus-img/exi7.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex8{
+	background-image: url('../mus-img/exi8.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
+.ex9{
+	background-image: url('../mus-img/exi9.png');
+	background-size: cover;
+	background-position: 40%;
+	border-radius: 10px;
+	height: 350px;
+	width: 200px; 
+}
